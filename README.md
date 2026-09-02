@@ -241,6 +241,12 @@ Confidence reflects the strength of the evidence supporting both:
 2. The resulting behavioural assessment
 
 
+| Level | Intelligence Assessment |
+|---|---|
+| **HIGH** | The observed behaviour is supported by consistent AIS records and corroborated by independent evidence, with limited unresolved ambiguity. |
+| **MEDIUM** | A behavioural pattern is identifiable, but limitations remain in data continuity, attribution, context or independent corroboration. |
+| **LOW** | Available data is incomplete, conflicting or insufficient to support a reliable behavioural assessment. |
+
 
 ## Confidence Factors
 
