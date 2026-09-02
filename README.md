@@ -221,6 +221,16 @@ EXTERNAL INFORMATION
        ↓
 INTELLIGENCE ASSESSMENT
 ```
+The assessment separates:
+
+| Stage | Analytical Question |
+|---|---|
+| **Observation** | What does the AIS data directly show? |
+| **Identification** | Can the activity be reliably attributed to the vessel? |
+| **Behaviour** | What movement pattern is observed? |
+| **Anomaly** | What requires explanation or further investigation? |
+| **Correlation** | What independent information supports or challenges the observation? |
+| **Assessment** | What conclusion is justified? |
 
 Possible analytical outcomes may include:
 
