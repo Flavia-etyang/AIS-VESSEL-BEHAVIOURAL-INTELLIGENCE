@@ -2,10 +2,10 @@
 
 ## CASE 03 — MS ENOLA — AIS INTERRUPTION & STS INVESTIGATION
 
-**IMO:** 9251951
-**Investigation Type:** AIS Behaviour / STS
-**Assessment Period:** [DATE/PERIOD]
-**Confidence:** HIGH
+- **IMO:** 9251951
+- **Investigation Type:** AIS Behaviour / STS
+- **Assessment Period:** [DATE/PERIOD]
+- **Confidence:** HIGH
 
 </div>
 
@@ -24,20 +24,20 @@ The convergence of AIS behaviour + vessel identity + STS activity + regulatory e
 ---
 
 ### 1 — Observation
-Vessel: MS ENOLA
-IMO: 9251951
-Type: Crude oil tanker
-AIS shutdown behaviour documented by U.S. Treasury.
-STS transfer involving DINO I documented by U.S. Treasury.
+- Vessel: MS ENOLA
+- IMO: 9251951
+- Type: Crude oil tanker
+- AIS shutdown behaviour documented by U.S. Treasury.
+- STS transfer involving DINO I documented by U.S. Treasury.
 
 ### 02 — Identification
 Identity established using:
 
-IMO number
-Vessel name
-Flag
-Registered owner
-Manager/operator
+- IMO number
+- Vessel name
+- Flag
+- Registered owner
+- Manager/operator
 
 The IMO number provides the primary vessel-level identity anchor.
 
@@ -45,10 +45,10 @@ The IMO number provides the primary vessel-level identity anchor.
 
 AIS behaviour was assessed against:
 
-STS activity
-Counterparty vessel identity
-Ownership/management
-U.S. Treasury regulatory findings
+- STS activity
+- Counterparty vessel identity
+- Ownership/management
+- U.S. Treasury regulatory findings
 
 ### 04 — Contradictions / Gaps
 
