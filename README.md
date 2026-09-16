@@ -1,6 +1,6 @@
 <div align="center">   
 
-# CASE 02 — MS ENOLA — AIS INTERRUPTION & STS INVESTIGATION
+## CASE 03 — MS ENOLA — AIS INTERRUPTION & STS INVESTIGATION
 
 **IMO:** 9251951
 **Investigation Type:** AIS Behaviour / STS
