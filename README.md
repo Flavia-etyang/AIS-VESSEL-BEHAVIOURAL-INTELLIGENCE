@@ -2,18 +2,20 @@
 
 ## CASE 03 — MS ENOLA — AIS INTERRUPTION & STS INVESTIGATION
 
+</div>
+
 - **IMO:** 9251951
 - **Investigation Type:** AIS Behaviour / STS
 - **Assessment Period:** [DATE/PERIOD]
 - **Confidence:** HIGH
-
-</div>
 
 ---
 
 ### Intelligence Question
 
 Does the vessel's AIS interruption represent an isolated transmission gap, or does it form part of a broader deceptive-shipping pattern?
+
+---
 
 ### Executive Finding
 
@@ -30,6 +32,8 @@ The convergence of AIS behaviour + vessel identity + STS activity + regulatory e
 - AIS shutdown behaviour documented by U.S. Treasury.
 - STS transfer involving DINO I documented by U.S. Treasury.
 
+---
+
 ### 02 — Identification
 Identity established using:
 
@@ -41,6 +45,8 @@ Identity established using:
 
 The IMO number provides the primary vessel-level identity anchor.
 
+---
+
 ### 03 — Correlation
 
 AIS behaviour was assessed against:
@@ -50,17 +56,23 @@ AIS behaviour was assessed against:
 - Ownership/management
 - U.S. Treasury regulatory findings
 
+---
+
 ### 04 — Contradictions / Gaps
 
 Public evidence does not establish the duration of every AIS interruption.
 An individual AIS gap cannot independently establish intentional concealment.
 The complete movement sequence surrounding the reported transfer is not publicly available.
 
+---
+
 ### 05 — Assessment
 
 The evidence supports a HIGH-confidence assessment that the documented AIS shutdown behaviour formed part of a broader deceptive-shipping pattern.
 
 The conclusion relies on corroboration, rather than treating AIS loss alone as evidence of misconduct.
+
+---
 
 ### 06 — Confidence
 
