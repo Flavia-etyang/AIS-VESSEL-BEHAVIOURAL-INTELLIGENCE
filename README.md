@@ -1,3 +1,98 @@
+<div align="center">
+    
+# AIS & VESSEL BEHAVIOURAL INTELLIGENCE   
+
+## CASE 01 — MS ENOLA
+
+**IMO:** 9251951
+**Investigation Type:** AIS Behaviour / STS
+**Assessment Period:** [DATE/PERIOD]
+**Confidence:** HIGH
+
+</div>
+
+---
+
+### Intelligence Question
+
+Does the vessel's AIS interruption represent an isolated transmission gap, or does it form part of a broader deceptive-shipping pattern?
+
+### Executive Finding
+
+MS ENOLA was identified by the U.S. Treasury as a Djibouti-flagged crude tanker involved in an STS transfer of Iranian oil from DINO I (IMO 9569671). Treasury also reported that MS ENOLA used AIS shutdowns as part of deceptive practices.
+
+The convergence of AIS behaviour + vessel identity + STS activity + regulatory evidence supports a HIGH-confidence assessment that the interruption formed part of a broader deceptive-shipping pattern.
+
+---
+
+### 1 — Observation
+Vessel: MS ENOLA
+IMO: 9251951
+Type: Crude oil tanker
+AIS shutdown behaviour documented by U.S. Treasury.
+STS transfer involving DINO I documented by U.S. Treasury.
+
+### 02 — Identification
+Identity established using:
+
+IMO number
+Vessel name
+Flag
+Registered owner
+Manager/operator
+
+The IMO number provides the primary vessel-level identity anchor.
+
+### 03 — Correlation
+
+AIS behaviour was assessed against:
+
+STS activity
+Counterparty vessel identity
+Ownership/management
+U.S. Treasury regulatory findings
+
+### 04 — Contradictions / Gaps
+
+Public evidence does not establish the duration of every AIS interruption.
+An individual AIS gap cannot independently establish intentional concealment.
+The complete movement sequence surrounding the reported transfer is not publicly available.
+
+### 05 — Assessment
+
+The evidence supports a HIGH-confidence assessment that the documented AIS shutdown behaviour formed part of a broader deceptive-shipping pattern.
+
+The conclusion relies on corroboration, rather than treating AIS loss alone as evidence of misconduct.
+
+### 06 — Confidence
+
+**HIGH**
+
+Supported by persistent vessel identification, documented STS activity and an independent regulatory finding explicitly linking AIS shutdowns to deceptive practices.
+
+---
+
+### Key Evidence
+
+| Finding | Source | Evidence Type |
+|---|---|---|
+| MS ENOLA = IMO 9251951 | U.S. Treasury | Identity |
+| STS transfer involving Iranian oil | U.S. Treasury | Operational |
+| AIS shutdowns documented | U.S. Treasury | Behavioural |
+| DINO I = IMO 9569671 | U.S. Treasury | Counterparty |
+
+---
+
+### Analyst Note
+
+**AIS interruption alone does not establish intentional concealment. Its significance increases when corroborated by independent behavioural, operational and regulatory evidence.**
+
+### Sources
+
+U.S. Department of the Treasury — [MS ENOLA designation]
+
+---
+
 # AIS & VESSEL BEHAVIOURAL INTELLIGENCE
 
 **Track · Observe · Detect · Correlate · Assess**
