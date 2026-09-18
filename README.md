@@ -2,18 +2,19 @@
 
 ## CASE 03 — MS ENOLA — AIS INTERRUPTION & STS INVESTIGATION
 
-</div>
+**IMO:** 9251951  
+**Investigation Type:** AIS Behaviour / STS  
+**Assessment Date:** 19 December 2024  
+**Evidence Basis:** U.S. Department of the Treasury designation and associated findings  
+**Confidence:** HIGH
 
-- **IMO:** 9251951
-- **Investigation Type:** AIS Behaviour / STS
-- **Assessment Period:** [DATE/PERIOD]
-- **Confidence:** HIGH
+</div>
 
 ---
 
 ### Intelligence Question
 
-Does the vessel's AIS interruption represent an isolated transmission gap, or does it form part of a broader deceptive-shipping pattern?
+> How significant is the documented AIS interruption when assessed alongside the vessel's identity, STS activity and independent regulatory findings?
 
 ---
 
